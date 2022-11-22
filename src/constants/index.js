@@ -30,14 +30,14 @@ export const features = [
   {
     id: "Interests",
     icon: interests,
-    title: "100% Secured",
+    title: "Interests",
     content:
       "All the interests from the resume interets section can be added here and everythong can be written point wise and can be shown in different way.",
   },
   {
     id: "Experience",
     icon: experience,
-    title: "Balance Transfer",
+    title: "Experience",
     content:
       "All the Experience from different companies can be added here and everythong can be written point wise and can be shown in different way.",
   },
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "It is a top quality course. Keep going, we need this type of course to improve our studies. Excellent. Thank you!!",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Student",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Thanks so much for your very valuable training. I really enjoyed it, and appreciated that you made it fun! ",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Student",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Thank you for a great course. Great presentation style with lots of opportunities to ask questions and talk about real life examples.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Student",
     img: people03,
   },
 ];

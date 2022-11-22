@@ -40,6 +40,10 @@ import tech from "./tech.png"
 import kubernetes from './kubernetes.png'
 import python from "./python.png"
 import docker from "./docker.jpg"
+import project2 from "./project2.png"
+import project1 from "./project1.png"
+import project3 from "./project3.png"
+import bill2 from "./bill2.png"
 
 export {
   airbnb,
@@ -82,4 +86,8 @@ export {
   kubernetes,
   python,
   docker,
+  project2,
+  project3,
+  project1,
+  bill2,
 };

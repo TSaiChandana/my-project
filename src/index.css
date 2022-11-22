@@ -63,6 +63,14 @@
     #11101d 91.61%
   );
 }
+.bg-black-gradient-3 {
+  background: linear-gradient(
+    -168.39deg,
+    #3b7da6 -278.56%,
+    #214d76 -78.47%,
+    #11101d 91.61%
+  );
+}
 .bg-pink-gradient-3 {
   background: linear-gradient(
     -168.39deg,
